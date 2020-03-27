@@ -2,6 +2,8 @@
 
 # #Update
 
+As espressif update there esp-aliyun and provide new example, this repo will be stopped update. But it should still work for access aliyun IoT platform.
+
 - 更新esp-idf为esp-idf v3.0.2
 - 更新component下的esp-aliyun的mk文件。
 - 调整IOTkit V2.0.1的tfs下的代码
